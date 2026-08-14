@@ -2,7 +2,7 @@
 > **Knowledge to Wisdom** | Official GitHub Organization for Mewar University, Chittorgarh, Rajasthan, India.
 
 <p align="center">
-  <img src="https://mewaruniversity.org" alt="IMG-20260814-WA0008.jpg"
+  <img src="https://mewaruniversity.org" alt="(https://github.com/Mewar-University/.github/blob/main/IMG-20260814-WA0008.jpg)"
     width="180"/>
 </p>
 
